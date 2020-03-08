@@ -1,13 +1,12 @@
 # :spiral_notepad:**Depiction:**
 A pretty nice vehicle repair station plugin, hope you guys like it :smiley:
 
-https://forum.cfx.re/uploads/default/original/4X/8/6/d/86da28c69a7f897640874c7f1347de3161d37a73.jpeg
+[img]https://upload.cc/i1/2020/03/08/yEMJZ2.jpeg[/img]
 
 # :film_strip:**Preview:**
 https://streamable.com/c18jl
 
 # :gear:**Config:**
-[details="Click to see"]
 ```
 Config = {}
 Config.Locale = 'en' --en, tw
@@ -22,7 +21,6 @@ Config.Stations = {
 	{x = -211.15, y = -1323.98, z = 30.49, cost = false},
 }
 ```
-[/details]
 
 # :closed_lock_with_key:**Requirements:**
 * [interact-sound](https://forum.cfx.re/t/release-play-custom-sounds-for-interactions/8282) (`car_repair.ogg` in folder)
