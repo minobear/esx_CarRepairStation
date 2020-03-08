@@ -1,7 +1,4 @@
-# :spiral_notepad:**Depiction:**
 A pretty nice vehicle repair station plugin, hope you guys like it :smiley:
-
-[img]https://upload.cc/i1/2020/03/08/yEMJZ2.jpeg[/img]
 
 # :film_strip:**Preview:**
 https://streamable.com/c18jl
