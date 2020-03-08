@@ -1,5 +1,5 @@
 Config = {}
-Config.Locale = 'en' --en, tw
+Config.Locale = 'tw' --en, tw
 
 Config.RepairTime = 4000
 Config.EnableSoundEffect = true
