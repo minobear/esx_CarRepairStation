@@ -1,9 +1,9 @@
 A pretty nice vehicle repair station plugin, hope you guys like it :smiley:
 
-# :film_strip:**Preview:**
+# **Preview:**
 https://streamable.com/c18jl
 
-# :gear:**Config:**
+# **Config:**
 ```
 Config = {}
 Config.Locale = 'en' --en, tw
@@ -19,9 +19,9 @@ Config.Stations = {
 }
 ```
 
-# :closed_lock_with_key:**Requirements:**
+# **Requirements:**
 * [interact-sound](https://forum.cfx.re/t/release-play-custom-sounds-for-interactions/8282) (`car_repair.ogg` in folder)
 * [pNotify](https://forum.cfx.re/t/release-pnotify-in-game-js-notifications-using-noty/20659)
 
-# :arrow_down:**FiveM Forum Release:**
+# **FiveM Forum Release:**
 https://forum.cfx.re/t/release-esx-vehicle-repair-stations-with-sound-and-mark-animation-effect/1054169
